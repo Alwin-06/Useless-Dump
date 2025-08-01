@@ -33,7 +33,7 @@ if kanappi_file:
 
         # Fancy result display
         st.markdown(f"""
-        <div style="background-color:#f0f0f5;padding:15px;border-radius:10px;margin-top:15px">
+        <div style="background-color:#808080:15px;border-radius:10px;margin-top:15px">
             <h4>💯 Your Kanappi Score: <span style='color:#e63946'>{score}/100</span></h4>
             <p>🗯️ <i>{comment}</i></p>
         </div>

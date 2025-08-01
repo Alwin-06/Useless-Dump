@@ -12,7 +12,7 @@ if "step" not in st.session_state:
 st.title("🔐 Overcomplicated Login System")
 
 if st.session_state.step == 1:
-    st.subheader("Step 1: Solve the 3x3 Rubik's Cube")
+    st.subheader("Step 1: Solve the 3x3 Matrix")
     if "grid" not in st.session_state:
         st.session_state.grid = ["⬜"] * 9
 

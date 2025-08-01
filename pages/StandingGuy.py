@@ -10,7 +10,7 @@ st.image("https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif", width=200)
 # 🔁 Embed with max minimal YouTube branding allowed
 st.markdown("""
 <iframe width="560" height="315"
-src="https://www.youtube.com/embed/SXHMnicI6Pg?autoplay=1&mute=1&controls=0&loop=1&playlist=SXHMnicI6Pg&modestbranding=1&rel=0&showinfo=0"
+src="https://www.youtube.com/embed/SXHMnicI6Pg?autoplay=1&controls=0&loop=1&playlist=SXHMnicI6Pg&modestbranding=1&rel=0&showinfo=0"
 frameborder="0"
 allow="autoplay; encrypted-media"
 allowfullscreen>
