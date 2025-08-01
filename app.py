@@ -4,7 +4,7 @@ import streamlit as st
 import os
 
 st.set_page_config(
-    page_title="Naadan Vibes",
+    page_title="Useless Naadan Dump",
     page_icon="🔥",
     layout="wide"
 )
@@ -52,7 +52,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 st.markdown("""
-<div class="title">🔥 Naadan Vibes 🔥</div>
+<div class="title">🔥 Useless Naadan Dump 🔥</div>
 <div class="subtitle">
     The most uselessly fun app ever built with love & coconut oil 🥥
 </div>
