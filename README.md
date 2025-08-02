@@ -12,6 +12,8 @@
 - Team Lead: Alwin Philip - RIT Kottayam
 - Member 2: Edwin Varkey - RIT Kottayam
 
+Project Link : https://uselessnaadandump.streamlit.app/
+
 ### Project Description
 A totally overengineered yet proudly useless app that evaluates your naadan (Kerala-style) identity using simple image processing, random logic, and bad life advice. From measuring vada holes to calculating your love chances, it delivers zero value — but full laughs.
 
