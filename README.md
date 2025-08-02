@@ -106,15 +106,18 @@ streamlit run app.py
 ### Project Documentation
 For Software:
 
-# Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+# Screenshots 
+- Home Page UI
+<img width="1916" height="885" alt="Screenshot 2025-08-02 062634" src="https://github.com/user-attachments/assets/56779cf2-a742-4897-9706-f791e88e089e" />
+Home screen of the "Useless Naadan Dump" app showing six hilariously useless modules like Naadan Nickname Generator, Vada Hole Estimator, and Chappathi Roundness Checker. Each module is designed with regional humor and fun prompts.
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+- Kanappi Score Analyzer in Action
+<img width="1110" height="501" alt="Screenshot 2025-08-02 070234" src="https://github.com/user-attachments/assets/6f4fefd3-452a-41d3-8d0a-7a81f3d84db7" />
+Interface of the Kanappi Score Analyzer module where users upload a selfie to find out how "Kanappi" they are. Combines image processing with a fun scoring system.
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+-  Proposal Success Meter
+<img width="1045" height="574" alt="Screenshot 2025-08-02 070435" src="https://github.com/user-attachments/assets/b6d66988-a4d2-4f9c-9411-0040cc570570" />
+The “Oru Naadan Proposal Success Meter” module asks for your name and your crush’s name to predict your love proposal success—Naadan style! A fun take on traditional love calculators with a desi twist.
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
