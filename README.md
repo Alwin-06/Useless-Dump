@@ -99,7 +99,7 @@ source venv/bin/activate
 
 # 3. Install required Python packages
 pip install -r requirements.txt
-
+```
 # Run
 # Launch the Streamlit app
 streamlit run app.py
