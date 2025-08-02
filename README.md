@@ -103,8 +103,46 @@ pip install -r requirements.txt
 # Run
 streamlit run app.py
 
-### Project Documentation
-For Software:
+### 📄 Project Documentation
+
+#### For Software
+
+**Overview:**
+
+**Naadan Vibes** is a playful web app built with **Streamlit** that combines 6 hilarious, “useless but clever” modules inspired by Kerala's local flavor. From Kanappi score predictions to an overcomplicated login system, the app delivers pure entertainment with a local twist.
+
+**Structure:**
+
+* `app.py`: Main router for navigating features.
+* `modules/`: Contains each feature as a separate Python file.
+* `assets/`: Holds images, emojis, sound files, and styles.
+* `utils/`: Shared helper functions (e.g., random score generator, image analysis).
+
+**Key Functionalities:**
+
+1. **Kanappi Score Predictor** – Uses a mock ML model to rate your “kanappi” level from a selfie.
+2. **Love Proposal Success Meter** – Generates a funny, random love compatibility score.
+3. **Virtual Standing Guy** – Displays a static “guy” with changing sarcastic status texts.
+4. **Naadan Random Talks** – Spits out randomly generated naadan-style jokes and dialogues.
+5. **Naadan Nickname Generator** – Gives a comically accurate nickname from your name/selfie.
+6. **Complicated Login System** – A 3-step login with puzzles, face detection & Morse password.
+
+**How It Works:**
+
+Each module runs independently in Streamlit pages. Random logic and optional image processing mimic ML behavior. User input is collected via forms or uploads and responses are styled with emojis and dark mode.
+
+**Limitations:**
+
+* ML usage is minimal or mock-based.
+* All outputs are humorous and non-scientific.
+* Designed for fun, not function.
+
+**Future Fun Ideas:**
+
+* Add voice input/output for nickname or proposal modules.
+* Include “Naadan Avatar Creator.”
+* Gamify the Complicated Login with points 🕹️
+
 
 # Screenshots 
 - Home Page UI
@@ -120,40 +158,32 @@ Interface of the Kanappi Score Analyzer module where users upload a selfie to fi
 The “Oru Naadan Proposal Success Meter” module asks for your name and your crush’s name to predict your love proposal success—Naadan style! A fun take on traditional love calculators with a desi twist.
 
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+<img width="1024" height="1024" alt="workflow1" src="https://github.com/user-attachments/assets/c17f628b-b1ac-4a83-8aef-551687df8ac1" />
 
-For Hardware:
+### 📊 Workflow Description:
 
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
+The user begins by accessing the **Naadan Vibes** homepage. From there, they can choose among six unique features:
 
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
+1. **Kanappi Score Predictor**: The user uploads a selfie, and a machine learning model analyzes visual features like hairstyle, piercings, and outfit to generate a humorous “kanappi” score.
+2. **Love Proposal Success Meter**: By entering their name and their crush’s name, the user gets a playful “naadan-style” love success prediction.
+3. **Virtual Standing Guy**: Once accessed, it displays a funny idle character that says random “still standing” type messages.
+4. **Oru Naadan Random Talks**: Clicking this generates humorous, AI-crafted random dialogues or statements mimicking a typical naadan person.
+5. **Naadan Nickname Generator**: Based on the user’s input or selfie, the system gives them a comical nickname using visual or text clues.
+6. **Complicated Login System**: An intentionally overengineered 3-step login process featuring a Rubik’s cube challenge, funny face detection, and Morse code password entry.
 
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
+Each module is independent, offering an engaging and humorous experience tailored to the “naadan” theme. Once completed, users can loop back to explore another feature.
 
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+https://drive.google.com/file/d/192a_uCe_syClc5xKkGVBbNSV_Ja8s3rH/view?usp=sharing
 
-# Additional Demos
-[Add any extra demo materials/links]
+This Streamlit-based web app is a hilarious collection of completely unnecessary but undeniably entertaining features rooted in pure Kerala vibes. It includes an Appam Hole Counter and a Vada Hole Size Analyzer using image processing to judge your culinary skills like your nosy aunties do, while the Pappadam Roundness Index ensures your crispy snack meets circular perfection. The Naadan Nickname Generator uses randomization and Malayali slang to give you the nickname you never asked for, and the Proposal Success Meter calculates your love fate using absolutely no real science (but 100% emotion). Finally, the app is hidden behind a ridiculously Overcomplicated Login System involving face detection, Rubik's cube references, and Morse code—because why not make access harder than a government exam? All features come wrapped in funny visuals and background meme music to make your useless journey worthwhile.
+
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Alwin Philip: Implementation and Design
+- Edwin Varkey: Idea
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
