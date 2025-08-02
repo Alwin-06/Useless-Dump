@@ -101,7 +101,6 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 # Run
-# Launch the Streamlit app
 streamlit run app.py
 
 ### Project Documentation
